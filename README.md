@@ -4,8 +4,8 @@ Düzlemdeki rastgele bir nokta kümesini çevreleyen en küçük dışbükey pol
 
 ## 🎯 Projenin Amacı
 Bu proje, **Bursa Teknik Üniversitesi** Algoritma Analizi ve Tasarımı dersi kapsamında geliştirilmiştir. Temel amacı:
-* [cite_start]**Kaba Kuvvet ($O(n^3)$)** ve **Graham Scan ($O(n \log n)$)** algoritmalarının teorik karmaşıklıklarını gerçek çalışma süreleri ile ilişkilendirmek. [cite: 3, 4]
-* [cite_start]Büyük veri setlerinde algoritmalar arasındaki dramatik performans farkını görsel ve deneysel olarak kanıtlamak. [cite: 8]
+* Kaba Kuvvet ($O(n^3)$) ve Graham Scan ($O(n \log n)$) algoritmalarının teorik karmaşıklıklarını gerçek çalışma süreleri ile ilişkilendirmek.
+* Büyük veri setlerinde algoritmalar arasındaki dramatik performans farkını görsel ve deneysel olarak kanıtlamak.
 
 ## 🛠️ Teknik Özellikler
 * [cite_start]**Dinamik Girdi:** Kullanıcı uygulama üzerinden $N$ (nokta sayısı) değerini anlık olarak değiştirebilir. [cite: 18]
