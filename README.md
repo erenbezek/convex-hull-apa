@@ -8,7 +8,7 @@ Düzlemdeki rastgele bir nokta kümesini çevreleyen en küçük dışbükey pol
 
 
 ## Deneysel Bulgular
-
+![vision](pic.png)
 
 
 ##  Kurulum ve Kullanım
