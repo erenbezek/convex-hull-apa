@@ -24,8 +24,4 @@ Proje tek bir Python dosyası üzerinden çalışacak şekilde tasarlanmıştır
     ```
 
 
----
-[cite_start]**Yazar:** Eren Bezek (22360859011) [cite: 106, 107]  
-[cite_start]**Danışman:** Dr. Öğretim Üyesi Seçkin YILMAZ [cite: 110]
 
----
