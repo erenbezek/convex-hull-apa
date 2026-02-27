@@ -1,9 +1,9 @@
 # Convex Hull Analyzer: Brute Force vs. Graham Scan
 
-[cite_start]Düzlemdeki rastgele bir nokta kümesini çevreleyen en küçük dışbükey poligonu (**Convex Hull**) bulan iki farklı algoritmanın teorik ve deneysel analiz aracıdır. [cite: 86]
+Düzlemdeki rastgele bir nokta kümesini çevreleyen en küçük dışbükey poligonu (**Convex Hull**) bulan iki farklı algoritmanın teorik ve deneysel analiz aracıdır.
 
 ## 🎯 Projenin Amacı
-[cite_start]Bu proje, **Bursa Teknik Üniversitesi** Algoritma Analizi ve Tasarımı dersi kapsamında geliştirilmiştir. [cite: 85, 100] Temel amacı:
+Bu proje, **Bursa Teknik Üniversitesi** Algoritma Analizi ve Tasarımı dersi kapsamında geliştirilmiştir. Temel amacı:
 * [cite_start]**Kaba Kuvvet ($O(n^3)$)** ve **Graham Scan ($O(n \log n)$)** algoritmalarının teorik karmaşıklıklarını gerçek çalışma süreleri ile ilişkilendirmek. [cite: 3, 4]
 * [cite_start]Büyük veri setlerinde algoritmalar arasındaki dramatik performans farkını görsel ve deneysel olarak kanıtlamak. [cite: 8]
 
